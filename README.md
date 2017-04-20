@@ -3,6 +3,10 @@ JS Evaluation Workflow for [Alfred 3](http://www.alfredapp.com)
 
 You can evaluate JavaScript right within your Alfred.
 
+**[DOWNLOAD](https://github.com/VitaliyR/alfred-js-evaluate-workflow/releases)**
+
+![Workflow Screenshot](https://cloud.githubusercontent.com/assets/2149612/25237614/d3f18c38-25f3-11e7-9b5f-2badb7cced1b.png)
+
 ## Setup
 
 ### Interpreter
